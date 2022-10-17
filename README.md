@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**jterral/jterral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm .NET Core Backend developer working in Bordeaux, France.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Crafted last [City Parkings](https://apps.apple.com/in/app/city-parkings/id1491355712) app;
+
+##### BIO
+
+- 🏢 I'm currently working at Betclicgroup
+- 🔨 I use daily `.cs`
+- ⚙ I use monthly `.tf`, `.ts`, `.js`
+- 🛠 I use yearly `.php` (just kidding, never use)
+- 🌱 I’m still learning `.dart`
+- 🏖 I love to travel (who doesnt)
+- 🐘💨 Yes it's an elephant
+- 🤷‍♂️ This is my favorite emoji
