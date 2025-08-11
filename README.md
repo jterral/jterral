@@ -1,18 +1,18 @@
 ### Hi there 👋
 
-#### I'm .NET Core Backend developer working in Bordeaux, France.
+#### Senior .NET Backend Developer | Bordeaux, France
 
-##### NOW
+##### 🚀 CURRENTLY
 
-- ✨ Crafted last [City Parkings](https://apps.apple.com/in/app/city-parkings/id1491355712) app;
+- 🚗 Crafted the latest [City Parkings](https://apps.apple.com/in/app/city-parkings/id1491355712) app;
 
-##### BIO
+##### 🧾 BIO
 
-- 🏢 I'm currently working at Betclicgroup
-- 🔨 I use daily `.cs`
-- ⚙ I use monthly `.tf`, `.ts`, `.js`
-- 🛠 I use yearly `.php` (just kidding, never use)
-- 🌱 I’m still learning `.dart`
-- 🏖 I love to travel (who doesnt)
-- 🐘💨 Yes it's an elephant
-- 🤷‍♂️ This is my favorite emoji
+- 🏢 15+ years of crafting robust, maintainable software
+- 🔨 Daily driver: `.NET`, `.cs`
+- ⚙ Occasionally: `.tf`, `.ts`, `.js`
+- 🛠 Rarely: `.php` (only in cautionary tales)
+- 🌱 Always learning — currently exploring `.rs` (Rust)
+- 🏖 Globe-trotter mindset (yes, I can debug from the beach)
+- 🐘💨 If you know, you know
+- 🤷‍♂️ My go-to emoji
