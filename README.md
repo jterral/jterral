@@ -10,7 +10,7 @@
 
 - 🏢 15+ years of crafting robust, maintainable software
 - 🔨 Daily driver: `.NET`, `.cs`
-- ⚙ Occasionally: `.tf`, `.ts`, `.js`
+- ⚙ Occasionally: `.dart`, `.ts`, `.js`
 - 🛠 Rarely: `.php` (only in cautionary tales)
 - 🌱 Always learning — currently exploring `.rs` (Rust)
 - 🏖 Globe-trotter mindset (yes, I can debug from the beach)
