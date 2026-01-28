@@ -11,8 +11,8 @@
 - 🏢 15+ years of crafting robust, maintainable software
 - 🔨 Daily driver: `.NET`, `.cs`
 - ⚙ Occasionally: `.dart`, `.ts`, `.js`
-- 🛠 Rarely: `.php` (only in cautionary tales)
-- 🌱 Always learning — currently exploring `.rs` (Rust)
-- 🏖 Globe-trotter mindset (yes, I can debug from the beach)
+- 🌱 Always learning - currently exploring `.rs` (Rust)
+- 🧪 Indie side projects builder
+- 🤖 AI-assisted workflows for building and shipping faster
 - 🐘💨 If you know, you know
 - 🤷‍♂️ My go-to emoji
