@@ -16,3 +16,7 @@
 - 🤖 AI-assisted workflows for building and shipping faster
 - 🐘💨 If you know, you know
 - 🤷‍♂️ My go-to emoji
+
+##### 🧮 GITHUB STATS
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jterral&theme=catppuccin-mocha&border_radius=5)](https://git.io/streak-stats)
